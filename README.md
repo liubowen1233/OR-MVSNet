@@ -15,4 +15,4 @@ Demos and results of our method. Code will be available soon...
     </tr>
 </table>
 
-img(/DTU1.png)
+<img src="DTU1.png" alt="Big Boat">
