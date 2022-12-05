@@ -15,4 +15,4 @@ Demos and results of our method. Code will be available soon...
     </tr>
 </table>
 
-(/DTU1.png)
+img(/DTU1.png)
