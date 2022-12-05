@@ -15,4 +15,4 @@ Demos and results of our method. Code will be available soon...
     </tr>
 </table>
 
-<img src="DTU1.png" alt="Big Boat">
+<img src="DTUCompare.png" alt="Big Boat">
