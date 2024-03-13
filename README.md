@@ -2,7 +2,7 @@
 Demos and results of our method. Code will be available soon...
 
 <h3>Requirements:</h3>
-` ``
+` ``Java
 conda create -n venv python=3.9
 conda activate venv
 conda install pytorch==1.10.0 torchvision cudatoolkit=11.3 -c pytorch
