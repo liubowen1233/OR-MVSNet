@@ -1,5 +1,4 @@
 # MS-MVS
-Demos and results of our method. Code will be available soon...
 
 ## Requirements
     conda create -n venv python=3.9
