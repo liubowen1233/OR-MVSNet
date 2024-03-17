@@ -1,4 +1,4 @@
-# MS-MVS
+# OR-MVSNet
 
 ## Requirements
     conda create -n venv python=3.9
