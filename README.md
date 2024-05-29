@@ -62,9 +62,9 @@ Due to large point clouds generated, user may need a NVIDIA card with high memor
         <td>overall</td>
     </tr>
     <tr>
-        <td>0.363</td>
-        <td>0.286</td>
-        <td>0.324</td>
+        <td>0.359</td>
+        <td>0.287</td>
+        <td>0.323</td>
     </tr>
 </table>
 
